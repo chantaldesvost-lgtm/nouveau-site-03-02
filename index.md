@@ -1,8 +1,18 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 1
+in_menu: true
 ---
-
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+<article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Agora-Project.png">
+    </div>
+    <div>
+      <h2>Agora-Project</h2>
+      <p>Application de travail collaboratif simple, complète et efficace</p>
+      <div>
+        <a href="https://framalibre.org/notices/agora-project.html">Vers la notice Framalibre</a>
+        <a href="https://www.agora-project.net">Vers le site</a>
+      </div>
+    </div>
+  </article> 
